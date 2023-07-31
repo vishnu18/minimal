@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Stock analysis using Machine Learning
 
-Using Machine Learning algorithm trying to find stocks that grow over a period of time based on value based analysis using Machine Learning.
+Using Machine Learning algorithms, finding stocks that grow over a period of time based on value based analysis using Machine Learning.
 
 ## Header 2
 
